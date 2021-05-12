@@ -29,3 +29,8 @@ body.theme-gray .header .navigation-wrapper {
     border-top: none !important;
     background-color: none !important;
 }
+
+.header .navigation-wrapper {
+    border-top: 1px solid #d3d5d7;
+    background-color: none !important;
+}
