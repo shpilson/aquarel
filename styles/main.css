@@ -12,7 +12,7 @@ body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .conta
     width: 75% !important;
 }
 
-/* Меню навигация: двигаем навигацию вверх, делаем прозрачный */
+/* Меню навигация: двигаем навигацию вверх, делаем прозрачный, убираем нижнюю рамку */
 
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper {
     background-color: transparent !important;
@@ -28,4 +28,8 @@ body.theme-gray .header .navigation-wrapper {
 .header .navigation-wrapper {
     border-top: none !important;
     background-color: transparent !important;
+}
+
+body.theme_11 .wrapper .header {
+    border-bottom: none !important;
 }
