@@ -1,3 +1,12 @@
+/* Header: логотип. выравнивание по центру */
+
 body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .container-fluid {
     max-width: fit-content !important;
+}
+
+/* Меню навигация: смещаем влево */
+
+.navigation .nav.sf-menu {
+    text-align: left;
+    justify-content: left;
 }
