@@ -9,4 +9,5 @@ body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .conta
 .navigation .nav.sf-menu {
     text-align: left !important;
     justify-content: left !important;
+    width: 75% !important;
 }
