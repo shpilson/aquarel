@@ -11,3 +11,21 @@ body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .conta
     justify-content: left !important;
     width: 75% !important;
 }
+
+/* Меню навигация: двигаем навигацию вверх, делаем прозрачный */
+
+body.theme-gray.theme_11 .wrapper .header .navigation-wrapper {
+    background-color: none !important;
+    position: relative;
+    bottom: 70px;
+}
+
+body.theme-gray .header .navigation-wrapper {
+    background-color: none !important;
+    border-top: none !important;
+}
+
+.header .navigation-wrapper {
+    border-top: none !important;
+    background-color: none !important;
+}
