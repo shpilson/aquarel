@@ -15,22 +15,17 @@ body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .conta
 /* Меню навигация: двигаем навигацию вверх, делаем прозрачный */
 
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper {
-    background-color: none !important;
+    background-color: transparent !important;
     position: relative !important;
     bottom: 70px !important;
 }
 
 body.theme-gray .header .navigation-wrapper {
-    background-color: none !important;
+    background-color: transparent !important;
     border-top: none !important;
 }
 
 .header .navigation-wrapper {
     border-top: none !important;
-    background-color: none !important;
-}
-
-.header .navigation-wrapper {
-    border-top: 1px solid #d3d5d7;
-    background-color: none !important;
+    background-color: transparent !important;
 }
