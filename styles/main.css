@@ -128,6 +128,12 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart {
     padding: 0px 5px;
 }
 
+/* Увеличиваем размер корзины */
+
+.header-cart .cart-wrapper #cart i {
+    font-size: 21px;
+    padding: 3px 0;
+
 /* Смещение иконок вбок */
 
 body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets {
