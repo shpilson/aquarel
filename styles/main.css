@@ -99,6 +99,6 @@ body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-
 
 /* Замена иконки корзины */
 
-.fa-shopping-cart:before {
-    content: "\f07a";
+.common-home .header-cart .cart-wrapper #cart {
+    color: black !important;
 }
