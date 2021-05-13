@@ -41,7 +41,6 @@ body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu
     font-size: 18px !important;
     font-family: Playfair Display;
     font-style: normal !important;
-    font-size: 18px !important;
     line-height: 24px !important;  
 
     display: block;
@@ -51,4 +50,10 @@ body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu
     border-right: none !important;
     font-weight: normal !important;
     transition: unset!important;
+}
+
+/* Меню навигация (при наведении): убираем серый фон, */
+
+body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.sf-menu>li:hover {
+    background-color: transparent !important;
 }
