@@ -286,5 +286,5 @@ body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .th
 }
 
 body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button:hover, body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button:hover {
-    background-color: transparent !important;
+    background-color: rgb(241, 241, 241) !important;
 }
