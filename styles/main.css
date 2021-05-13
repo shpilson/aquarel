@@ -194,4 +194,5 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .med
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: bold;
+    text-transform: capitalize !important;
 }
