@@ -218,6 +218,13 @@ body.theme_11 .wrapper .latest-section h2.section-title span {
     text-transform: capitalize;
 }
 
+
+/* Body, products: убираем полоску, меняем шрифт заголовка */
+
+body .section-title span:after, body .section-title span:before {
+    background-color: transparent !important;
+}
+
 body .section-title span {
     text-align: center;
     font-family: 'Playfair Display';
