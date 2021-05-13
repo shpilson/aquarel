@@ -251,3 +251,10 @@ body.theme_11 .wrapper .page-section .products.grid .product-item {
     border-top: transparent !important;
     border-left: transparent !important;
 }
+
+/* Products: добавляем отступы в сетке товаров */
+
+body.theme_11 .wrapper .page-section .products.grid .product-item {
+    margin: 0px !important;
+    padding: 0px 22px 35px 22px;
+}
