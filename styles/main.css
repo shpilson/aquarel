@@ -137,7 +137,7 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart {
 
 /* Смещение иконок вбок */
 
-.body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets {
+body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets {
     right: 120px;
     left: auto;
 }
