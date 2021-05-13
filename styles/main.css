@@ -298,3 +298,9 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
     font-size: 16px;
     line-height: 22px;
 }
+
+/* Products: кнопка "купить", делаем меньше */
+
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
+    width: 70%;
+}
