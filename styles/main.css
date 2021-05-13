@@ -4,6 +4,11 @@ body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .conta
     max-width: fit-content !important;
 }
 
+/* Меню навигация: смещаем влево */
+
+.navigation .nav.sf-menu {
+    justify-content: flex-end !important;
+}
 
 /* Меню навигация: двигаем навигацию вверх, делаем прозрачный, убираем нижнюю рамку */
 
