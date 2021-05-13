@@ -364,6 +364,16 @@ body .btn.btn-theme.btn-theme-transparent:hover {
 
 /* Footer: убираем верхний отступ */
 
-body.theme_11 .wrapper footer.footer {
-    border-top: none;
+
+
+/* Footer: все ссылки - меняем цвет */
+
+body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a, body.theme_11 .wrapper footer.footer .footer-widgets .widget .widget-title {
+    color: #A9A9A9;
+}
+
+/* Footer: меняем фон футера */
+
+body.theme_11 .wrapper footer.footer .footer-widgets {
+    background-color: #ffffff;
 }
