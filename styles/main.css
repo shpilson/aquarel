@@ -76,3 +76,17 @@ body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-
 .wide .sticky-wrapper .header {
     height: 100px !important;
 }
+
+/* Отображаем иконку авторизации */
+
+.wrapper .header .header-wrapper .header_widgets .header_login {
+    padding: 0 20px !important;
+  }
+   
+  .header_login > .d-none.d-lg-block {
+    display: none !important;
+  }
+  
+  .header_login > .d-none.d-sm-block.d-lg-none {
+    display: block !important;
+  }
