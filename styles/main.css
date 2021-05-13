@@ -242,3 +242,9 @@ body .section-title span {
     max-width: 229px;
     max-height: 78px;
 }
+
+/* Products: убираем рамки у товаров */
+
+body.theme_11 .wrapper .page-section .products.grid .product-item:first-child, body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child {
+    border-top: transparent;
+}
