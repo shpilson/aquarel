@@ -158,3 +158,8 @@ body.theme_11 .header-cart .cart-wrapper .cart-qty-circle {
     display: none !important;
 }
 
+/* Body, categories: меняем размер */
+
+body.theme_11 .wrapper .homefeatured_category>div>div>div {
+    max-width: 350px !important;
+}
