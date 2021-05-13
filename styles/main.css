@@ -17,6 +17,7 @@ body.theme_11 .wrapper .header .header-wrapper:not(.mobile_search_active) .conta
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper {
     background-color: transparent !important;
     position: relative !important;
+    width: max-content;
     bottom: 70px !important;
 }
 
