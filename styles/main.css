@@ -207,7 +207,7 @@ body#home .homefeatured_category .row {
 /* Body, products: меняем шрифт заголовка */
 
 
-body.theme_11 .wrapper .latest-section h2.section-title span {
+body.theme_11 .wrapper h2.section-title span {
     text-align: center;
     font-family: 'Playfair Display';
     font-style: normal;
