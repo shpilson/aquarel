@@ -197,3 +197,9 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .med
     font-weight: bold;
     text-transform: capitalize !important;
 }
+
+/* Body, categories: отодвигаем нижний заголовок ниже */
+
+body#home .homefeatured_category .row {
+    margin-bottom: 65px !important;
+}
