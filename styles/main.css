@@ -169,3 +169,7 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div {
 body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
     padding: 0px !important;
 }
+
+body.ltr .wrapper .homefeatured_category > div > div > div > .thumbnail, body.ltr .wrapper .homefeatured_category > div > div > div {
+    border: none !important;
+}
