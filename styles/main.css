@@ -277,13 +277,13 @@ body.theme_11.ltr .wrapper .page-section .products.grid .product-item .thumbnail
     line-height: 20px;
 }
 
-/* Products: кнопка "купить", меняем цвет */
+/* Products: кнопка "купить", меняем цвет, настройки шрифта */
 
 body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
     color: #000!important;
     background-color: transparent !important;
     border: 1px solid;
-    text-transform: capitalize;
+    text-transform: none;
 }
 
 body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button:hover, body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button:hover {
