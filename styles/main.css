@@ -304,3 +304,9 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
 body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
     width: 70%;
 }
+
+/* Products: кнопка "купить", смещаем влево */
+
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart, body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper {
+    text-align: left;
+}
