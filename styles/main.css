@@ -254,6 +254,11 @@ body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child(4n) 
     border-left: transparent;
 }
 
-body.theme_11 .wrapper .page-section .products.grid .product-item:first-child, body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child(2) {
+body.theme_11 .wrapper .page-section .products.grid .product-item:first-child, 
+body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child(2) {
+    border-top: transparent;
+}
+
+body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child(4) {
     border-top: transparent;
 }
