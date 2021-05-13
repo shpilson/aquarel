@@ -218,7 +218,7 @@ body.theme_11 .wrapper .latest-section h2.section-title span {
     text-transform: capitalize;
 }
 
-body .section-title {
+body .section-title span {
     text-align: center;
     font-family: 'Playfair Display';
     font-style: normal;
