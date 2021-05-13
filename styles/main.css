@@ -71,6 +71,11 @@ body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu
     width: 70%;
 }
 
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy:hover>a:before, body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]:hover>a:before {
+    position: absolute;
+    width: 70%;
+}
+
 body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li>a {
     border-left: none !important;
 }
@@ -146,3 +151,4 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets {
     right: 120px;
     left: auto;
 }
+
