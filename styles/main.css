@@ -70,3 +70,9 @@ body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.s
 body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li>a {
     border-left: none !important;
 }
+
+/* Header: делаем расстояние до шапки меньше */
+
+.wide .sticky-wrapper .header {
+    height: 100px !important;
+}
