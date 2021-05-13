@@ -248,6 +248,8 @@ body .section-title span {
 body.theme_11 .wrapper .page-section .products.grid .product-item {
     border-right: transparent;
     border-bottom: transparent;
+    border-top: transparent;
+    border-left: transparent;
 }
 
 body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child(4n) {
