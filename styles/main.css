@@ -158,11 +158,3 @@ body.theme_11 .header-cart .cart-wrapper .cart-qty-circle {
     display: none !important;
 }
 
-
-/* Bug-fix: выравниваем виджеты с маленьких экранов */
-
-body.theme_11 .wrapper .header .header-wrapper .header_widgets {
-    max-width: 1200px;
-    min-width: 991px;
-    top: 29px !important;
-}
