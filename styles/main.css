@@ -40,9 +40,9 @@ body.theme_11 .wrapper .header {
 body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]>a {
     font-size: 18px !important;
     font-family: Playfair Display;
-    font-style: normal;
-    font-size: 18px;
-    line-height: 24px;  
+    font-style: normal !important;
+    font-size: 18px !important;
+    line-height: 24px !important;  
 
     display: block;
     margin: 10px 0;
