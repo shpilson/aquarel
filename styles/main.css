@@ -123,3 +123,7 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart {
     text-align: center;
     border-radius: 4px;
 }
+
+.header-cart .cart-wrapper #cart, .header-cart .cart-wrapper #wishlist {
+    padding: 0px 5px;
+}
