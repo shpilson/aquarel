@@ -418,3 +418,10 @@ body.ltr .widget-categories ul li a {
 body.theme-gray .footer .footer-widgets .widget-title:before {
     background-color: transparent;
 }
+
+/* Footer: уменьшаем отсуп от заголовка  */
+
+body .footer .footer-widgets .widget-title {
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+}
