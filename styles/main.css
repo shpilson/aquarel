@@ -379,3 +379,9 @@ body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a,
 body.theme_11 .wrapper footer.footer .footer-widgets {
     background-color: #ffffff;
 }
+
+/* Footer: иконка ограниченных людей */
+
+body.theme_11 .wrapper footer.footer .footer-widgets .bs-menu-toggle>a.bs-menu-link {
+    color: #000;
+}
