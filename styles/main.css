@@ -95,3 +95,10 @@ body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-
     min-width: 40px !important;
     text-align: center !important;
 }
+
+
+/* Замена иконки корзины */
+
+.fa-shopping-cart:before {
+    content: "\f07b";
+}
