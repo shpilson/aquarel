@@ -246,10 +246,10 @@ body .section-title span {
 /* Products: убираем рамки у товаров */
 
 body.theme_11 .wrapper .page-section .products.grid .product-item {
-    border-right: transparent;
-    border-bottom: transparent;
-    border-top: transparent;
-    border-left: transparent;
+    border-right: transparent !important;
+    border-bottom: transparent !important;
+    border-top: transparent !important;
+    border-left: transparent !important;
 }
 
 body.theme_11 .wrapper .page-section .products.grid .product-item:nth-child(4n) {
