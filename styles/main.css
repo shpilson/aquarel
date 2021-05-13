@@ -235,3 +235,10 @@ body .section-title span {
     color: #4B373D;
     text-transform: capitalize;
 }
+
+/* Header: изменяем размеры логотипа */
+
+.logo img {
+    max-width: 229px;
+    max-height: 78px;
+}
