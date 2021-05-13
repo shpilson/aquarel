@@ -264,3 +264,10 @@ body.theme_11 .wrapper .page-section .products.grid .product-item {
 body.theme_11.ltr .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .price {
     text-align: center;
 }
+
+/* Products: меняем шрифт, выравниваем по центру */
+
+body a, body p, body span {
+    font-family: 'Open Sans' !important;
+    text-align: center;
+}
