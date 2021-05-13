@@ -343,3 +343,12 @@ body .btn.btn-theme.btn-theme-transparent:hover {
 .thumbnail .add_to_wishlist, .thumbnail .remove_from_wishlist {
     bottom: 6px;
 }
+
+/* Products: кнопка "сердечко", добавляем рамку, выравниваем размер */
+
+.thumbnail .add_to_wishlist button, .thumbnail .remove_from_wishlist button {
+    border: 1px solid;
+    height: 40px;
+    width: 40px;
+    padding: 0px 0px;
+}
