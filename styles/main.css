@@ -399,7 +399,7 @@ body .footer .footer-meta {
     position: relative;
 }
 
-/* Footer: sellavi убираем отступ  */
+/* Footer: убираем иконку от ссылок  */
 
 body.ltr .widget-categories ul li a:before {
     content: none;
