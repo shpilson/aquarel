@@ -370,7 +370,7 @@ body.theme_11 .wrapper footer.footer {
 
 /* Footer: все ссылки - меняем цвет */
 
-body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a, body.theme_11 .wrapper footer.footer .footer-widgets .widget .widget-title {
+body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a {
     color: #A9A9A9;
 }
 
