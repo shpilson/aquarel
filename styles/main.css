@@ -385,3 +385,12 @@ body.theme_11 .wrapper footer.footer .footer-widgets {
 body.theme_11 .wrapper footer.footer .footer-widgets .bs-menu-toggle>a.bs-menu-link {
     color: #000;
 }
+
+/* Footer: sellavi убираем отступ  */
+
+body .footer .footer-meta {
+    padding: 10px 0;
+    background-color: #fff;
+    border-top: none;
+    position: relative;
+}
