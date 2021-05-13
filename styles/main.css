@@ -163,3 +163,9 @@ body.theme_11 .header-cart .cart-wrapper .cart-qty-circle {
 body.theme_11 .wrapper .homefeatured_category>div>div>div {
     max-width: 350px !important;
 }
+
+/* Body, categories: убираем отступы от изображения */
+
+body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
+    padding: 0px !important;
+}
