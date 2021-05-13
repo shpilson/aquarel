@@ -361,3 +361,9 @@ body .btn.btn-theme.btn-theme-transparent:hover {
     max-width: 250px;
     max-height: 250px;
 }
+
+/* Footer: убираем верхний отступ */
+
+body.theme_11 .wrapper footer.footer {
+    border-top: none;
+}
