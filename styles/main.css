@@ -90,3 +90,9 @@ body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-
   .header_login > .d-none.d-sm-block.d-lg-none {
     display: block !important;
   }
+
+  body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_login>a {
+    line-height: 40px;
+    min-width: 40px !important;
+    text-align: center !important;
+}
