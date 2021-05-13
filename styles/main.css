@@ -323,3 +323,9 @@ body.ltr .thumbnail .add_to_wishlist, body.ltr .thumbnail .remove_from_wishlist 
     left: auto;
     right: 15px;
 }
+
+/* Products: кнопка "сердечко", смещаем вниз */
+
+.thumbnail .media {
+    position: initial;
+}
