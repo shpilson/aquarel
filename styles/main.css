@@ -175,3 +175,9 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .med
 body.ltr .wrapper .homefeatured_category > div > div > div > .thumbnail, body.ltr .wrapper .homefeatured_category > div > div > div {
     border: none !important;
 }
+
+/* Header, banner: убираем тень баннера */
+
+.owl-wrapper-outer {
+    box-shadow: none !important;
+}
