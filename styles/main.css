@@ -166,10 +166,11 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div {
     padding: 0 6px 12px !important;
 }
 
-/* Body, categories: убираем отступы от изображения */
+/* Body, categories: убираем отступы от изображения, задаем ширину */
 
 body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
     padding: 0px !important;
+    width: 250px;
 }
 
 /* Body, categories: убираем границы категорий */
