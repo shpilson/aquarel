@@ -329,3 +329,11 @@ body.ltr .thumbnail .add_to_wishlist, body.ltr .thumbnail .remove_from_wishlist 
 .thumbnail .media {
     position: initial;
 }
+
+/* Products: кнопка "сердечко", делаем красным при наведении */
+
+body .btn.btn-theme.btn-theme-transparent:hover {
+    background-color: #b70000;
+    border-color: #b80202;
+    color: #fff;
+}
