@@ -60,6 +60,7 @@ body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.s
 
 body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li:hover>a:before {
     bottom: -10px !important;
+    top: auto !important;
 }
 
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.sf-menu>li:hover>a:before {
