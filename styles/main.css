@@ -152,3 +152,8 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets {
     left: auto;
 }
 
+/* Скрываем счетчик товаров в корзине */
+
+body.theme_11 .header-cart .cart-wrapper .cart-qty-circle {
+    display: none !important;
+}
