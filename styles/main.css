@@ -161,7 +161,7 @@ body.theme_11 .header-cart .cart-wrapper .cart-qty-circle {
 /* Body, categories: меняем размер */
 
 body.theme_11 .wrapper .homefeatured_category>div>div>div {
-    max-width: 350px !important;
+    max-width: 250px !important;
 }
 
 /* Body, categories: убираем отступы от изображения */
@@ -169,6 +169,8 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div {
 body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
     padding: 0px !important;
 }
+
+/* Body, categories: убираем границы категорий */
 
 body.ltr .wrapper .homefeatured_category > div > div > div > .thumbnail, body.ltr .wrapper .homefeatured_category > div > div > div {
     border: none !important;
