@@ -398,3 +398,11 @@ body .footer .footer-meta {
     border-top: none;
     position: relative;
 }
+
+/* Footer: sellavi убираем отступ  */
+
+body.ltr .widget-categories ul li a:before {
+    content: none;
+    left: 0;
+    right: auto;
+}
