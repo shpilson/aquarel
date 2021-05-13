@@ -51,7 +51,7 @@ body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu
     transition: unset!important;
 }
 
-/* Меню навигация (при наведении): убираем серый фон, подсветка снизу, добавляем цвет, убираем перегородку */
+/* Меню навигация (при наведении): убираем серый фон, подсветка снизу, делаем её меньше, добавляем цвет, убираем перегородку */
 
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.sf-menu>li:hover {
     background-color: transparent !important;
@@ -64,6 +64,11 @@ body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu
 
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.sf-menu>li:hover>a:before {
     background-color: #F4E1E6 !important;
+}
+
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy:hover>a:before, body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]:hover>a:before {
+    position: absolute;
+    width: 70%;
 }
 
 body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li>a {
