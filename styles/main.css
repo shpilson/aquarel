@@ -102,3 +102,11 @@ body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-
 .common-home .header-cart .cart-wrapper #cart {
     color: black !important;
 }
+
+body.theme-gray.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart {
+    background-color: transparent;
+}
+
+.d-lg-inline-block {
+    display: none !important;
+}
