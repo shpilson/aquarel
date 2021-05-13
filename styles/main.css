@@ -353,3 +353,11 @@ body .btn.btn-theme.btn-theme-transparent:hover {
     width: 61px;
     padding: 0px 0px;
 }
+
+/* Products: изображение товара, уменьшаем размер */
+
+.product-item .thumbnail .media img {
+    min-height: 250px;
+    max-width: 250px;
+    max-height: 250px;
+}
