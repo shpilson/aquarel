@@ -203,3 +203,17 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .med
 body#home .homefeatured_category .row {
     margin-bottom: 65px !important;
 }
+
+/* Body, products: меняем шрифт заголовка */
+
+
+body.theme_11 .wrapper .latest-section h2.section-title span {
+    text-align: center;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 51px;
+    color: #4B373D;
+    text-transform: capitalize;
+}
