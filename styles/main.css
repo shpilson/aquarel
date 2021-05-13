@@ -316,3 +316,10 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
 .thumbnail .add_to_wishlist button, .thumbnail .remove_from_wishlist button {
     border-radius: 4px;
 }
+
+/* Products: кнопка "сердечко", смещаем вправо */
+
+body.ltr .thumbnail .add_to_wishlist, body.ltr .thumbnail .remove_from_wishlist {
+    left: auto;
+    right: 15px;
+}
