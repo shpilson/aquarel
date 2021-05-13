@@ -412,3 +412,9 @@ body.ltr .widget-categories ul li a:before {
 body.ltr .widget-categories ul li a {
     padding: 0px 0px;
 }
+
+/* Footer: убираем границу под заголовками  */
+
+body.theme-gray .footer .footer-widgets .widget-title:before {
+    background-color: transparent;
+}
