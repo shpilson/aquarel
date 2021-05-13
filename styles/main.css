@@ -58,8 +58,8 @@ body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.s
     background-color: transparent !important;
 }
 
-body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]:hover>a:before {
-    bottom: -5px !important;
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li:hover>a:before {
+    bottom: -10px !important;
 }
 
 body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.sf-menu>li:hover>a:before {
