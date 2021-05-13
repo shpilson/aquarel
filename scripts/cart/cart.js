@@ -5,3 +5,5 @@ function cart() {
         el.textContent = 'В корзину';
     }) 
 }
+
+export default cart;
