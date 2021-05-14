@@ -3,7 +3,7 @@ const sendSelector = document.querySelector(".custom_section")
 function send() {
 sendSelector.insertAdjacentHTML('afterend', `
 <div class="container">
-    <div class="contact-with-map row">
+    <div class="client_send_form row">
         <div class="send_form col-md-4 col-12">
         <h5 class="contacts__title">Остались вопросы?</h5>
         <ul class="contacts__list">
