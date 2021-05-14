@@ -451,7 +451,7 @@ body .footer .footer-widgets .widget-title {
 }
 
 .contacts {
-  background: #000;
+  background: rgba(241, 220, 226, 0.43);
   padding: 80px 0 !important;
 }
 
@@ -462,9 +462,14 @@ body .footer .footer-widgets .widget-title {
 .contacts__title {
   font-weight: bold;
   color: white;
-  font-size: 22px !important;
+  font-size: 37px !important;
   margin: 0 auto 20px;
   width: 80%;
+
+  font-family: 'Playfair Display' !important;
+  font-style: normal;
+  line-height: 96%;
+  color: #484848;
 }
 
 .contact__list-el i svg {
