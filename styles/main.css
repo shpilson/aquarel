@@ -409,7 +409,7 @@ body .footer .footer-meta {
     position: relative;
 }
 
-/* Footer: убираем иконку от ссылок  */
+/* Footer: убираем иконку от ссылок  (возможно поэтому скрылась иконка Instagram) */
 
 body.ltr .widget-categories ul li a:before {
     content: none;
