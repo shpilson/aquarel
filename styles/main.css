@@ -516,13 +516,3 @@ body .footer .footer-widgets .widget-title {
     height: 377px;
   }
 }
-
-/* Map, карта */
-
-.contact__map {
-    padding: 0 !important;
-}
-
-.contact__map, .contacts {
-    border-radius: 4px;
-}
