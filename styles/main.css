@@ -494,10 +494,17 @@ body .footer .footer-widgets .widget-title {
 
 .contact__list-text {
   margin: 0 0 0 40px !important;
+  font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 131.5%;
+    /* or 24px */
+    color: #484848;
 }
 
 .contact__list-text a {
-  color: #9f9f9f !important;
+  color: #484848 !important;
 }
 
 .contact__map iframe {
