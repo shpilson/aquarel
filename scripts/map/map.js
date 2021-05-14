@@ -1,9 +1,7 @@
 const mapAquarel = document.querySelector(".custom_section")
 
 function map() {
-mapAquarel.insertAdjacentHTML('afterbegin', `<div class="custom_section">
-
-
+mapAquarel.insertAdjacentHTML('afterbegin', `
 <div class="container">
 <div class="contact-with-map row">
 <div class="contacts col-md-4 col-12">
@@ -53,7 +51,7 @@ mapAquarel.insertAdjacentHTML('afterbegin', `<div class="custom_section">
 <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A48aa462ef9cd620ee89a27a1180cc6b90c4ccb638a222fa18e840e0c63a6f6a5&amp;source=constructor" width="500" height="400" frameborder="0"></iframe>
 </div>
 </div>
-</div></div>`)
+</div>`)
 }
 
 export default map;
