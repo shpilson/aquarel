@@ -368,7 +368,7 @@ body.theme_11 .wrapper footer.footer {
     border-top: 2px solid #CBCBCB;
 }
 
-/* Footer: все ссылки - меняем цвет */
+/* Footer: все ссылки - меняем цвет и шрифт */
 
 body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a {
     color: #A9A9A9;
@@ -376,6 +376,11 @@ body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a 
 
 body.theme_11 .wrapper footer.footer .footer-widgets .widget .widget-title {
     color: #000000;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
 }
 
 /* Footer: меняем фон футера */
