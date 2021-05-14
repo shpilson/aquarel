@@ -535,3 +535,24 @@ body .footer .footer-widgets .widget-title {
   background: #000;
   padding: 60px 0 !important;
 }
+
+.send_title {
+    font-weight: bold;
+    font-size: 37px !important;
+    margin: 0 auto 20px;
+    width: 80%;
+  
+    font-family: Playfair Display !important;
+    font-style: normal;
+    line-height: 96%;
+    color: #484848;
+  }
+  
+  .send_list {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .send_text {
+    padding: 0 !important;
+  }

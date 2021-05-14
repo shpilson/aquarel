@@ -5,8 +5,8 @@ sendSelector.insertAdjacentHTML('afterend', `
 <div class="container">
     <div class="client_send_form row">
         <div class="send_form col-md-4 col-12">
-        <h5 class="contacts__title">Остались вопросы?</h5>
-        <ul class="contacts__list">
+        <h5 class="send_title">Остались вопросы?</h5>
+        <ul class="send_list">
           
             <form>
                 <div class="form-group">>
@@ -20,7 +20,7 @@ sendSelector.insertAdjacentHTML('afterend', `
 
         </ul>
         </div>
-        <div class="contact__map col-md-8 col-12">
+        <div class="send_text col-md-8 col-12">
         <span>text</span>
         </div>
     </div>
