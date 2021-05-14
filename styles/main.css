@@ -438,6 +438,6 @@ body .footer .footer-widgets .widget-title {
 
 
 /* Offer: уменьшаем отсуп от заголовка  */
-#home > div.wrapper.wrapper-closed > div.content-area > div.custom_section > div > div {
+body .custom_section .container .contact-with-map {
 background: url("./images/offer.jpeg");
 }
