@@ -335,8 +335,8 @@ body.ltr .thumbnail .add_to_wishlist, body.ltr .thumbnail .remove_from_wishlist 
 
 body .btn.btn-theme.btn-theme-transparent:hover {
     background-color: #C1798C;
-    border-color: #b80202;
-    color: #b70000;
+    border-color: #C1798C;
+    color: #C1798C;
 }
 
 /* Products: кнопка "сердечко", выравниваем по середине */
