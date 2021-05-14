@@ -461,12 +461,11 @@ body .footer .footer-widgets .widget-title {
 
 .contacts__title {
   font-weight: bold;
-  color: white;
   font-size: 37px !important;
   margin: 0 auto 20px;
   width: 80%;
 
-  font-family: 'Playfair Display' !important;
+  font-family: Playfair Display !important;
   font-style: normal;
   line-height: 96%;
   color: #484848;
