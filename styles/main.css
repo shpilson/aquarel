@@ -609,7 +609,7 @@ body {
     background: url("./images/background/1.png") no-repeat;
 }
 
-
+/* Отображение категорий в одну колонку */
 
 body.theme_11 .wrapper .homefeatured_category>div>div>div {
     flex: none !important;
