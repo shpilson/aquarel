@@ -583,3 +583,12 @@ body .footer .footer-widgets .widget-title {
     border: 2px solid #808080;
     width: -webkit-fill-available;
 }
+
+/* Кнопка при наведении */
+
+.btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
+    color: #484848;
+    background-color: #f8eff2;
+    border-color: #b8a3a7;
+    border-radius: 0.25rem;
+}
