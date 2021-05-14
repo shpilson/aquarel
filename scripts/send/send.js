@@ -13,8 +13,7 @@ sendSelector.insertAdjacentHTML('afterend', `
                   <input type="text" class="form-control" id="client_name" aria-describedby="clientName" placeholder="Ваше имя">
                 </div>
                 <div class="form-group">
-                  <label for="exampleInputPassword1">Password</label>
-                  <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                <input type="text" class="form-control" id="client_phone" aria-describedby="clientPhone" placeholder="Ваш телефон">
                 </div>
                 <button type="submit" class="btn btn-primary">Оставить заявку</button>
               </form>
