@@ -603,7 +603,15 @@ body.theme_11:not(.common-home) footer.footer .footer-widgets>.container {
     overflow: visible;
 }
 
+/* Добавляем фон */
 
 body {
-    background-image: url("./images/background/1.png");
+    background: url("./images/background/1.png");
+    position: absolute;
+    width: 499.88px;
+    height: 429.43px;
+    left: -9.81px;
+    top: 538.03px;
+    mix-blend-mode: multiply;
+    transform: rotate(41.79deg);
 }
