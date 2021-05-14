@@ -602,3 +602,8 @@ body.theme_11:not(.common-home) footer.footer .footer-widgets>.container {
     padding: 0 15px;
     overflow: visible;
 }
+
+
+body {
+    background-image: url("./images/background/1.png");
+}
