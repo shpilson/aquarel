@@ -530,6 +530,10 @@ body .footer .footer-widgets .widget-title {
 
 /* ОБРАТНАЯ ФОРМА СВЯЗИ */
 
+.client_send_form {
+  margin-top: 40px;
+}
+
 .send_form {
   border-radius: 4px;
   background: #000;
