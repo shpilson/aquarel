@@ -539,8 +539,7 @@ body .footer .footer-widgets .widget-title {
 }
 
 .send_form {
-  border-radius: 4px;
-  background: #000;
+  background: transparent;
   padding: 60px 0 !important;
 }
 
