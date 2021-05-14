@@ -530,9 +530,12 @@ body .footer .footer-widgets .widget-title {
 
 /* ОБРАТНАЯ ФОРМА СВЯЗИ */
 
+/* Фон формы, рамка, верхний отступ */
+
 .client_send_form {
   margin-top: 40px;
   background-image: url("./images/offer.jpeg");
+  border: 3px solid rgba(142, 142, 142, 0.46);
 }
 
 .send_form {
