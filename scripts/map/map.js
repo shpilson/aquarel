@@ -16,7 +16,7 @@ mapAquarel.insertAdjacentHTML('afterbegin', `
 
 </i>
   <p class="contact__list-text">
-    <a href="" role="link">г. Подольск, Революционный проспект, д. 23</a>
+    <a href="" role="link">Москва, ул. Нижегородская, 5А, офис 1711 В</a>
   </p>
 </li>
 
@@ -28,7 +28,7 @@ mapAquarel.insertAdjacentHTML('afterbegin', `
 
 </i>
   <p class="contact__list-text">
-    <a href="mailto:apple-podolsk@mail.ru" role="link">apple-podolsk@mail.ru</a>
+    <a href="mailto:aquarel@gmail.com" role="link">aquarel@gmail.com</a>
   </p>
 </li>
 
@@ -41,7 +41,7 @@ mapAquarel.insertAdjacentHTML('afterbegin', `
 
 </i>
   <p class="contact__list-text">
-    <a href="tel:8 (968) 327-27-00" role="link">8 (968) 327-27-00</a>
+    <a href="tel:+7 (495) 227-56-56" role="link">+7 (495) 227-56-56</a>
   </p>
 </li>
 
