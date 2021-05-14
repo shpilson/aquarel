@@ -439,5 +439,5 @@ body .footer .footer-widgets .widget-title {
 
 /* Offer: уменьшаем отсуп от заголовка  */
 body .custom_section .container .contact-with-map.row {
-background: url("./images/offer.jpeg");
+background-image: url("./images/offer.jpeg");
 }
