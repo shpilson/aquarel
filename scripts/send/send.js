@@ -6,7 +6,7 @@ sendSelector.insertAdjacentHTML('afterbegin', `
     <div class="client_send_form row">
     <div class="send_form col-md-6 col-12">
     <h5 class="send_title">Остались вопросы?</h5>
-    <span>Для подробной консультации по подбору идеального для Вас корсета оставьте заявку</span>
+    <p>Для подробной консультации по подбору идеального для Вас корсета оставьте заявку</p>
     </div>
 
         <div class="send_form col-md-6 col-12">
