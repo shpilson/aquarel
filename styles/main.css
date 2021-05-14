@@ -593,3 +593,12 @@ body .footer .footer-widgets .widget-title {
     border-color: #b8a3a7;
     border-radius: 0.25rem;
 }
+
+/* Отображаем футер на всех страницах */
+
+body.theme_11:not(.common-home) footer.footer .footer-widgets>.container {
+    height: 100% !important;
+    margin: 0 auto;
+    padding: 0 15px;
+    overflow: visible;
+}
