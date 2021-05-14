@@ -435,3 +435,9 @@ body .footer .footer-widgets .widget-title {
     padding-bottom: 0px;
     margin-bottom: 5px;
 }
+
+
+/* Offer: уменьшаем отсуп от заголовка  */
+#home > div.wrapper.wrapper-closed > div.content-area > div.custom_section > div > div {
+background: url("./images/offer.jpeg");
+}

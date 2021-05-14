@@ -5,7 +5,7 @@ offerMain.insertAdjacentHTML('afterbegin', `
 <div class="container">
 
 <div class="contact-with-map row">
-<img src="https://shpilson.github.io/aquarel/styles/images/offer.jpeg"></img>
+
 </div>
 
 </div>`)
