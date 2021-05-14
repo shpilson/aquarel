@@ -9,7 +9,7 @@ sendSelector.insertAdjacentHTML('afterend', `
         <ul class="send_list">
           
             <form>
-                <div class="form-group">>
+                <div class="form-group">
                   <input type="text" class="form-control" id="client_name" aria-describedby="clientName" placeholder="Ваше имя">
                 </div>
                 <div class="form-group">
