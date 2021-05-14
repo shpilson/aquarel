@@ -443,7 +443,7 @@ body .footer .footer-widgets .widget-title {
     margin-top: 40px;
 }
 
-/* Map, левые контакты */
+/* КАРТА */
 
 .contact__map,
 .contacts {
@@ -526,4 +526,12 @@ body .footer .footer-widgets .widget-title {
   .contact__map {
     height: 377px;
   }
+}
+
+/* ОБРАТНАЯ ФОРМА СВЯЗИ */
+
+.send_form {
+  border-radius: 4px;
+  background: #000;
+  padding: 60px 0 !important;
 }
