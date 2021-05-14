@@ -608,3 +608,9 @@ body.theme_11:not(.common-home) footer.footer .footer-widgets>.container {
 body {
     background: url("./images/background/1.png") no-repeat;
 }
+
+
+
+body.theme_11 .wrapper .homefeatured_category>div>div>div {
+    flex: none !important;
+}
