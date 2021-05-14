@@ -1,7 +1,7 @@
 const mapAquarel = document.querySelector(".custom_section")
 
 function map() {
-mapAquarel.insertAdjacentHTML('afterbegin', `
+mapAquarel.insertAdjacentHTML('afterend', `
 <div class="container">
 <div class="contact-with-map row">
 <div class="contacts col-md-4 col-12">
