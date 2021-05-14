@@ -563,3 +563,12 @@ body .footer .footer-widgets .widget-title {
   .send_text {
     padding: 0 !important;
   }
+
+  .send_form span {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;
+    color: #484848;
+  }
