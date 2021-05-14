@@ -438,6 +438,6 @@ body .footer .footer-widgets .widget-title {
 
 
 /* Offer: уменьшаем отсуп от заголовка  */
-body .custom_section .container .contact-with-map.row {
-background-image: url("./images/offer.jpeg");
+body .custom_section .container .contact-with-map {
+background-image: url("https://shpilson.github.io/aquarel/styles/images/offer.jpeg");
 }
