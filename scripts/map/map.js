@@ -48,7 +48,7 @@ mapAquarel.insertAdjacentHTML('afterbegin', `
 </ul>
 </div>
 <div class="contact__map col-md-8 col-12">
-<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A48aa462ef9cd620ee89a27a1180cc6b90c4ccb638a222fa18e840e0c63a6f6a5&amp;source=constructor" width="500" height="400" frameborder="0"></iframe>
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A7d6fe43dac60f195d80095080bb3059c63c5c42ac865334364f0ba5872bc8ab0&amp;source=constructor" width="500" height="400" frameborder="0"></iframe>
 </div>
 </div>
 </div>`)
