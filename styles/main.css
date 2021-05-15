@@ -89,7 +89,7 @@ body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-
 /* Отображаем иконку авторизации */
 
 .wrapper .header .header-wrapper .header_widgets .header_login {
-    padding: 0 5px !important;
+    padding: 0 !important;
   }
    
   .header_login > .d-none.d-lg-block {
@@ -632,15 +632,9 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
     color: #000;
 }
 
+/* Отступы от корзины в шапке */
 
-body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_wishlist {
-    display: inline-block;
-}
-
-.wrapper .header .header-wrapper .header_widgets .header_wishlist {
-    padding: 0 5px !important;
-}
-
-body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_wishlist>a i {
+.header-cart .cart-wrapper #cart i {
     font-size: 23px;
+    padding: 3px 0;
 }
