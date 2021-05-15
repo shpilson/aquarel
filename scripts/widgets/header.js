@@ -3,6 +3,12 @@ const widgetSelector = document.querySelector(".header > div.header-wrapper > di
 function headerIcon() {
 widgetSelector.insertAdjacentHTML('afterbegin',`
     <div class="header_login">
+        <a class="d-none d-sm-block d-lg-none" href="https://store108758.sellavi.com/#" role="link">
+        <i class="far fa-search"></i>
+        </a>
+    </div>
+
+    <div class="header_login">
         <a class="d-none d-sm-block d-lg-none" href="https://store108758.sellavi.com/index.php?route=account/wishlist" role="link">
         <i class="far fa-heart"></i>
         </a>
