@@ -11,5 +11,5 @@ if (pages.main) {
     cart();
     map();
     send();
-    header();
+    headerIcon();
   }
