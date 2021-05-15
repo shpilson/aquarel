@@ -620,3 +620,14 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div {
 .fa-shopping-cart:before {
     content: "\f290";
 }
+
+/* Отображение корзины на других страницах */
+
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #cart {
+    display: flex;
+    position: static;
+}
+
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #cart, body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #wishlist {
+    color: #000;
+}
