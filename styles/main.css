@@ -640,3 +640,7 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_wishlist 
 .wrapper .header .header-wrapper .header_widgets .header_wishlist {
     padding: 0 5px !important;
 }
+
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_wishlist>a i {
+    font-size: 23px;
+}
