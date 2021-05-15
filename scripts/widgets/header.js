@@ -2,11 +2,11 @@ const widgetSelector = document.querySelector(".header > div.header-wrapper > di
 
 function headerIcon() {
 widgetSelector.insertAdjacentHTML('beforeend',`
-    <div class="header_test">
+    <div class="header_login">
         <a class="d-none d-lg-block" href="https://store108758.sellavi.com/#" role="link">Авторизация</a>
         
         <a class="d-none d-sm-block d-lg-none" href="https://store108758.sellavi.com/#" role="link">
-        <i class="far fa-user">::before</i>
+        <i class="far fa-user"></i>
         </a>
     </div>`
 )}
