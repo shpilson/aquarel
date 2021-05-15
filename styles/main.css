@@ -170,7 +170,7 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div {
 /* Body, categories: убираем отступы от изображения, задаем ширину */
 
 body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .media-link .img-bg img {
-    padding: 0px !important;
+    padding: 14px !important;
     width: 250px;
 }
 
