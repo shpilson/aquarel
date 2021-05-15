@@ -631,3 +631,12 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
 body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #cart, body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #wishlist {
     color: #000;
 }
+
+
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_wishlist {
+    display: inline-block;
+}
+
+.wrapper .header .header-wrapper .header_widgets .header_wishlist {
+    padding: 0 5px !important;
+}
