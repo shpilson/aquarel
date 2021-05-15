@@ -196,7 +196,7 @@ body.theme_11 .wrapper .homefeatured_category>div>div>div>.thumbnail .media .med
     font-style: normal;
     font-weight: bold;
     text-transform: capitalize !important;
-    margin: 15px;
+    margin: 5px 0;
 }
 
 /* Body, categories: отодвигаем нижний заголовок ниже */
