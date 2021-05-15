@@ -1,4 +1,4 @@
-const widgetSelector = document.querySelector("#undefined-sticky-wrapper > header > div.header-wrapper > div.container-fluid > div.header_widgets");
+const widgetSelector = document.querySelector(".header > div.header-wrapper > div.container-fluid > div.header_widgets")
 
 function headerIcon() {
 widgetSelector.insertAdjacentHTML('beforeend',`
