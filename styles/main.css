@@ -603,19 +603,20 @@ body.theme_11:not(.common-home) footer.footer .footer-widgets>.container {
     overflow: visible;
 }
 
-/* Добавляем фон */
-
-body {
-    background: url("./images/background/1.png") no-repeat;
-}
-
 /* Отображение категорий в одну колонку */
 
 body.theme_11 .wrapper .homefeatured_category>div>div>div {
     flex: none !important;
 }
 
+/* Замена иконки юзера */
 
 .fa-user:before {
     content: "\f2bd";
+}
+
+/* Замена иконки корзины */
+
+.fa-shopping-cart:before {
+    content: "\f290";
 }
