@@ -141,7 +141,7 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart {
 /* Увеличиваем размер корзины */
 
 .header-cart .cart-wrapper #cart i {
-    font-size: 21px;
+    font-size: 23px;
     padding: 3px 0;
 }
 
