@@ -640,18 +640,24 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
     padding: 3px 3px;
 }
 
-/* Логотип в подвалеe */
+/* Логотип в подвалe */
 
 #sellavi_new_logo {
     display: inline-block !important;
 }
 
 #sellavi_new_logo {
-    display: inline-block;
     width: 150px;
     height: 60px;
+    float: right;
 }
 
 #sellavi_logo {
     display: none !important;
+}
+
+/* Футер, уменьшаем отступ от логотипа */
+
+body .footer .footer-widgets {
+    padding: 50px 0 0;
 }
