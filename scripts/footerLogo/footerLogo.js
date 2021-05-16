@@ -5,7 +5,7 @@ function footerLogo() {
     `<div class="col-sm-6">
         <div class="copyright">
             <a href="http://ru.sellavi.com/" rel="nofollow" target="_blank" id="sellavi_new_logo" role="link">
-                <img data-src="https://raw.githubusercontent.com/shpilson/aquarel/main/styles/images/logo_sellavi.jpeg" alt="" class="img-fluid" src="https://raw.githubusercontent.com/shpilson/aquarel/main/styles/images/logo_sellavi.jpeg">
+                <img data-src="https://shpilson.github.io/aquarel/styles/images/logo_vector.svg" alt="" class="img-fluid" src="https://shpilson.github.io/aquarel/styles/images/logo_vector.svg">
             </a>
         </div>
     </div>`
