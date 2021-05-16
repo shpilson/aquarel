@@ -701,3 +701,14 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
 body.theme_11 .wrapper .header .header-wrapper .header_widgets {
     top: 29px !important;
 }
+
+/* Счётчик корзины, выравниваем, двигаем левее */
+
+body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper .cart-qty-circle {
+    right: 5px;
+    left: auto;
+}
+
+.header-cart .cart-wrapper #cart, .header-cart .cart-wrapper #wishlist {
+    padding: 0px 15px;
+}
