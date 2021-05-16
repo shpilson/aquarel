@@ -722,3 +722,8 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart 
      margin-top: 10px !important;
    }
   
+/* Правильное отображение корзины с мобильной версии */
+
+body.theme_11.sidenav-enabled .wrapper .sticky-wrapper.is-sticky .header .header-wrapper .header_widgets {
+    height: auto;
+}
