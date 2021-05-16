@@ -642,6 +642,6 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
 
 /* Логотип в подвале */
 
-body.theme_11 .wrapper footer.footer .footer-widgets .footer_logo  {
+body.theme_11 .wrapper footer.footer .footer-widgets {
     background: url("./images/logo_sellavi.jpeg");
 }
