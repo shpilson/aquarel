@@ -760,3 +760,15 @@ body.theme-gray.theme_11.product-product .product-single.product-item .buttons .
     margin: 10px;
     border-radius: 4px;
 }
+
+/* Карточка товара - кнопка после нажатия на "Купить" */
+
+body.theme_11.product-product .product-single.product-item .buttons .quantity {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+    max-width: 100%;
+    flex: 1;
+    border-radius: 4px;
+    margin: 10px 0 10px 10px;
+}
