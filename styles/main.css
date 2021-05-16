@@ -36,7 +36,8 @@ body.theme_11 .wrapper .header {
 /* Меню навигация: изменяем шрифт */
 
 
-body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]>a {
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, 
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]>a {
     font-size: 18px !important;
     font-family: Playfair Display;
     font-style: normal !important;
@@ -66,17 +67,20 @@ body.theme-gray.theme_11 .wrapper .header .navigation-wrapper .navigation .nav.s
     background-color: #F4E1E6 !important;
 }
 
-body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy:hover>a:before, body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li:hover>a:before {
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy:hover>a:before, 
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li:hover>a:before {
     position: absolute;
     width: 70%;
 }
 
-body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy:hover>a:before, body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]:hover>a:before {
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy:hover>a:before, 
+body.theme_11 .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li[data-nav-part=home]:hover>a:before {
     position: absolute;
     width: 70%;
 }
 
-body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li>a {
+body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li.flexy>a, 
+body.theme_11.ltr .wrapper .header .navigation-wrapper nav.navigation ul.nav.sf-menu>li>a {
     border-left: none !important;
 }
 
@@ -134,7 +138,8 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart {
     border-radius: 4px;
 }
 
-.header-cart .cart-wrapper #cart, .header-cart .cart-wrapper #wishlist {
+.header-cart .cart-wrapper #cart, 
+.header-cart .cart-wrapper #wishlist {
     padding: 0px 5px;
 }
 
@@ -280,14 +285,16 @@ body.theme_11.ltr .wrapper .page-section .products.grid .product-item .thumbnail
 
 /* Products: кнопка "купить", меняем цвет, настройки шрифта */
 
-body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
+body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, 
+body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
     color: #000!important;
     background-color: transparent !important;
     border: 1px solid;
     text-transform: none;
 }
 
-body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button:hover, body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button:hover {
+body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button:hover, 
+body.theme-gray.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button:hover {
     background-color: rgb(241, 241, 241) !important;
 }
 
@@ -303,25 +310,29 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
 
 /* Products: кнопка "купить", делаем меньше */
 
-body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart>button, 
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper>button {
     width: 70%;
 }
 
 /* Products: кнопка "купить", смещаем влево */
 
-body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart, body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper {
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart, 
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .more_details_btn_wrapper {
     text-align: left;
 }
 
 /* Products: кнопка "сердечко", делаем углы квадратными */
 
-.thumbnail .add_to_wishlist button, .thumbnail .remove_from_wishlist button {
+.thumbnail .add_to_wishlist button, 
+.thumbnail .remove_from_wishlist button {
     border-radius: 4px;
 }
 
 /* Products: кнопка "сердечко", смещаем вправо */
 
-body.ltr .thumbnail .add_to_wishlist, body.ltr .thumbnail .remove_from_wishlist {
+body.ltr .thumbnail .add_to_wishlist, 
+body.ltr .thumbnail .remove_from_wishlist {
     left: auto;
     right: 1px;
 }
@@ -342,13 +353,15 @@ body .btn.btn-theme.btn-theme-transparent:hover {
 
 /* Products: кнопка "сердечко", выравниваем по середине */
 
-.thumbnail .add_to_wishlist, .thumbnail .remove_from_wishlist {
+.thumbnail .add_to_wishlist, 
+.thumbnail .remove_from_wishlist {
     bottom: 0px;
 }
 
 /* Products: кнопка "сердечко", добавляем рамку, выравниваем размер */
 
-.thumbnail .add_to_wishlist button, .thumbnail .remove_from_wishlist button {
+.thumbnail .add_to_wishlist button, 
+.thumbnail .remove_from_wishlist button {
     border: 1px solid;
     height: 44px;
     width: 61px;
@@ -629,7 +642,8 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
     position: static;
 }
 
-body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #cart, body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #wishlist {
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #cart, 
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .cart-wrapper #wishlist {
     color: #000;
 }
 
