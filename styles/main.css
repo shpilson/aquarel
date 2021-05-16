@@ -640,8 +640,14 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
     padding: 3px 3px;
 }
 
-/* Логотип в подвале */
+/* Логотип в подвалеe */
 
-body .img-fluid, body .img-thumbnail {
-    width: 100% !important;
+#sellavi_new_logo {
+    display: inline-block !important;
+}
+
+#sellavi_new_logo {
+    display: inline-block;
+    width: 150px;
+    height: 60px;
 }
