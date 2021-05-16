@@ -695,3 +695,9 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
     border-radius: 4px;
     margin: 0px 75px 2px 10px;
 }
+
+/* Header: Выравниваем иконки */
+
+body.theme_11 .wrapper .header .header-wrapper .header_widgets {
+    top: 29px !important;
+}
