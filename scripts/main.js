@@ -5,6 +5,7 @@ import cart from './cart/cart.js'; // Смена кнопки "Купить" н�
 import map from './map/map.js'; // Карта и контакты
 import send from './send/send.js'; // Форма обратной связи
 import headerIcon from './widgets/header.js'; // Виджеты в шапке
+import footerLogo from './footerLogo/footerLogo.js'; // Лого в подвале
 
 if (pages.main) {
     catalog();
@@ -16,4 +17,5 @@ if (pages.main) {
 if (pages.all) {
     cart();
     headerIcon();
+    footerLogo();
   }
