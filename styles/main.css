@@ -656,6 +656,13 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
     display: none !important;
 }
 
+
+#sellavi_logo {
+    display: inline-block;
+    width: 0px;
+    height: 0px;
+}
+
 /* Футер, уменьшаем отступ от логотипа */
 
 body .footer .footer-widgets {
