@@ -737,3 +737,14 @@ body.theme_11.sidenav-enabled .wrapper .sticky-wrapper.is-sticky .header .header
 .cart-items .cart-items-inner .buttons-wrapper {
     top: 40px;
 }
+
+/* Карточка товара - кнопка "Купить" */
+
+body.theme-gray.theme_11.product-product .product-single.product-item .buttons #button-booking, 
+body.theme-gray.theme_11.product-product .product-single.product-item .buttons #button-cart {
+    color: #000!important;
+    background-color: transparent !important;
+    border: 1px solid;
+    text-transform: none;
+    border-radius: 4px;
+}
