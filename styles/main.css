@@ -748,3 +748,15 @@ body.theme-gray.theme_11.product-product .product-single.product-item .buttons #
     text-transform: none;
     border-radius: 4px;
 }
+
+/* Карточка товара - кнопка "сердечко" */
+
+body.theme-gray.theme_11.product-product .product-single.product-item .buttons .btn-wish-list {
+    color: #3c3c3c;
+    border: 1px solid;
+    height: 64px;
+    width: 61px;
+    padding: 0px 0px;
+    margin: 10px;
+    border-radius: 4px;
+}
