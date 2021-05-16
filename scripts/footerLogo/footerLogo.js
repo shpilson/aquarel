@@ -3,9 +3,7 @@ const footerSelector = document.querySelector(".footer .footer-meta .container .
 function footerLogo() {
     footerSelector.insertAdjacentHTML('afterbegin',
     `<div class="col-sm-6">
-        <div class="copyright">
         <p>TEST</p>
-        </div>
     </div>`
 )}
     
