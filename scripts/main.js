@@ -8,7 +8,7 @@ import headerIcon from './widgets/header.js'; // Виджеты в шапке
 import footerLogo from './footerLogo/footerLogo.js'; // Лого в подвале
 
 if (pages.main) {
-
+    catalog();
     cart();
     map();
     send();
