@@ -643,5 +643,5 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
 /* Логотип в подвале */
 
 body .img-fluid, body .img-thumbnail {
-    width: 10% !important;
+    width: 100% !important;
 }
