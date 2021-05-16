@@ -4,7 +4,7 @@ function footerLogo() {
     footerSelector.insertAdjacentHTML('afterbegin',
     `<div class="col-sm-6">
         <div class="copyright">
-        <p>TEST</p>
+        <p>TEST TEST</p>
         </div>
     </div>`
 )}
