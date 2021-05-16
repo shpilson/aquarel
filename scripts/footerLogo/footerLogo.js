@@ -1,10 +1,11 @@
-const footerSelector = document.querySelector(".footer")
+const footerSelector = document.querySelector(".footer .footer-meta .container .row")
 
 function footerLogo() {
     footerSelector.insertAdjacentHTML('afterbegin',
-    `
+    `<div class="col-sm-6">
         <p>TEST</p>
-    `
+        </div>
+    </div>`
 )}
     
 export default footerLogo;
