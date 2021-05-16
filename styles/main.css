@@ -710,5 +710,5 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart 
 }
 
 .header-cart .cart-wrapper #cart, .header-cart .cart-wrapper #wishlist {
-    padding: 0px 15px;
+    padding: 0px 15px 0px 3px;
 }
