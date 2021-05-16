@@ -727,3 +727,9 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart 
 body.theme_11.sidenav-enabled .wrapper .sticky-wrapper.is-sticky .header .header-wrapper .header_widgets {
     height: auto;
 }
+
+/* Правильное отображение корзины с мобильной версии, иконка "удалить" смещаем ниже */
+
+.cart-items .cart-items-inner .buttons-wrapper {
+    top: 40px;
+}
