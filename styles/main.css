@@ -714,13 +714,8 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart 
 }
 
 /* Правильное отображение корзины с мобильной версии */
-
-.header .header-wrapper .header_widgets .header-cart .cart-wrapper #cart i {
-    line-height: 1.2;
-    margin: 3px 0 0 0 !important;
-   }
-  
-   .cart_drop_down #cart > span:first-child {
+    
+    .cart_drop_down #cart > span:first-child {
      display: none !important;
    }
   
