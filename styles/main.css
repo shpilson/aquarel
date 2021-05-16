@@ -642,12 +642,3 @@ body.theme_11 .wrapper .header .header-wrapper .header_widgets .header-cart .car
 
 /* Логотип в подвале */
 
-#sellavi_new_logo {
-    display: inline-block !important;
-}
-
-#sellavi_new_logo {
-    display: inline-block;
-    width: 150px;
-    height: 60px;
-}
