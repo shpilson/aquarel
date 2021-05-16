@@ -752,7 +752,7 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart 
    }
   
    .cart_drop_down #cart > span:first-child {
-     display: none !Important;
+     display: none !important;
    }
   
    body.ltr.ru .header-cart .cart-wrapper .cart-qty-circle {
