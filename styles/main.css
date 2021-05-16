@@ -724,16 +724,6 @@ body.theme_11.ltr .wrapper .header .header-wrapper .header_widgets .header-cart 
      display: none !important;
    }
   
-   body.ltr.ru .header-cart .cart-wrapper .cart-qty-circle {
-     width: 18px !important;
-     height: 18px !important;
-     font-size: 14px !important;
-     line-height: 1.2 !important;
-     right: 14px !important;
-     top: -15px !important;
-   }
-  
-  
    body.theme_11 .header-cart .cart_drop_down.dropdown .dropdown-menu .cart-items .cart-items-inner .cart-content .vouchers .media.buttons .media-body .media-links .button-wrapper {
      -webkit-box-flex: 0 !important;
      -ms-flex: 0 0 100% !important;
