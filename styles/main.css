@@ -761,6 +761,15 @@ body.theme-gray.theme_11.product-product .product-single.product-item .buttons .
     border-radius: 4px;
 }
 
+/* Карточка товара - кнопка "сердечко" - активная */
+
+body.theme-gray.theme_11.product-product .product-single.product-item .buttons .btn-wish-list:hover {
+    background-color: #C1798C;
+    border-color: #C1798C;
+    color: #C1798C;
+}
+
+
 /* Карточка товара - кнопка после нажатия на "Купить" */
 
 body.theme_11.product-product .product-single.product-item .buttons .quantity {
