@@ -1,4 +1,4 @@
-const footerSelector = document.querySelector(".footer .footer-meta .container .row")
+const footerSelector = document.querySelector(".footer")
 
 function footerLogo() {
     footerSelector.insertAdjacentHTML('afterbegin',
