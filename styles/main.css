@@ -822,7 +822,7 @@ body.theme-gray .social-icons li a {
 /* Фоновые изображение */
 
 body.common-home > .wrapper > .content-area {
-    background: url("./images/background.jpg") no-repeat;
+    background: url("./images/background.jpg") repeat-y;
     background-size: 100%;
    }
 
