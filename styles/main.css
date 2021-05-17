@@ -824,7 +824,7 @@ body {
     background: url("./images/background/1L.svg") no-repeat, 
                 url("./images/background/2L.svg") no-repeat, 
                 url("./images/background/3L.svg") no-repeat;
-    background-size: auto, auto, cover; /* Меняем мsасштаб */
+    background-size: auto, auto, auto; /* Меняем мsасштаб */
    }
 
 
