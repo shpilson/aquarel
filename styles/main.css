@@ -594,6 +594,7 @@ body .footer .footer-widgets .widget-title {
     color: #484848;
     margin: 0 auto 20px;
     width: 80%;
+    text-align: -webkit-center;
   }
 
 /* Кнопка */
