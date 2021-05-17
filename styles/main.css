@@ -886,3 +886,8 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
     margin: 0 .5rem 0px 0px !important;
     text-align: right;
 }
+
+body.theme_11 .wrapper .header .header-wrapper .header_widgets .header_login>a i {
+    font-size: 23px;
+    transform: scale(1.1);
+}
