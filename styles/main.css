@@ -857,3 +857,25 @@ body.common-home > .wrapper {
 body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart .fa-shopping-cart:before {
     content: "\f07a";
 }
+
+/* Header: иконки, меняем цвет */
+
+.fa-search:before {
+    content: "\f002";
+    color: #DADADA;
+}
+
+.fa-heart:before {
+    content: "\f004";
+    color: #DADADA;
+}
+
+.fa-user:before {
+    content: "\f2bd";
+    color: #DADADA;
+}
+
+.fa-shopping-cart:before {
+    content: "\f290";
+    color: #DADADA;
+}
