@@ -821,9 +821,9 @@ body.theme-gray .social-icons li a {
 /* Фоновые изображение */
 
 body {
-    background: url("./images/background/1L.svg") 90% 90% no-repeat fixed, 
-                url("./images/background/2L.svg") 40% 40% no-repeat fixed, 
-                url("./images/background/3L.svg") no-repeat fixed;
+    background: url("./images/background/1L.svg") 10% 10% no-repeat, 
+                url("./images/background/2L.svg") 10% 10% no-repeat, 
+                url("./images/background/3L.svg") no-repeat;
     background-size: auto, auto, cover; /* Меняем мsасштаб */
    }
 
