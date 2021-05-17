@@ -5,6 +5,7 @@ import map from './map/map.js'; // Карта и контакты
 import send from './send/send.js'; // Форма обратной связи
 import headerIcon from './widgets/header.js'; // Виджеты в шапке
 import footerLogo from './footerLogo/footerLogo.js'; // Лого в подвале
+import footerSocial from './footerSocial/footerSocial.js'; // Социальные сети в подвале
 
 if (pages.main) {
     catalog();
@@ -17,4 +18,5 @@ if (pages.all) {
     cart();
     headerIcon();
     footerLogo();
+    footerSocial();
   }
