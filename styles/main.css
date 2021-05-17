@@ -574,6 +574,7 @@ body .footer .footer-widgets .widget-title {
     font-style: normal;
     line-height: 96%;
     color: #484848;
+    text-align: center;
   }
   
   .send_list {
