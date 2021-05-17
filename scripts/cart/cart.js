@@ -1,4 +1,4 @@
-const cartButton = document.querySelectorAll('.product-item .add_to_cart .button span');
+const cartButton = document.querySelectorAll('.product-item .add_to_cart button span');
 
 function cart() {
     cartButton.forEach(el => {
