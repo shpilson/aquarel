@@ -556,6 +556,7 @@ body .footer .footer-widgets .widget-title {
   margin-top: 40px;
   background-image: url("./images/offer.jpeg");
   border: 3px solid rgba(142, 142, 142, 0.46);
+  background-position: right;
 }
 
 .send_form {
