@@ -823,7 +823,7 @@ body.theme-gray .social-icons li a {
 body .content-area .page-section {
     background: url("./images/background/1L.svg");
     background-position: left top;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat, no-repeat;
 }
 
 
