@@ -824,7 +824,7 @@ body.theme-gray .social-icons li a {
 body.common-home > .wrapper {
     background: url("./images/background.jpg") repeat-y;
     background-size: 100%;
-    background-blend-mode: lighten;
+    background-color:rgba(0, 0, 0, 0.7);
    }
 
 
