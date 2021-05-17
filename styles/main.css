@@ -810,3 +810,8 @@ body.theme-gray .social-icons li a {
 .footer-widgets > .container > .row {
     width: 80% !important;
 }
+
+
+.form-control {
+    background-color: rgba(243, 243, 243, 0.82);
+}
