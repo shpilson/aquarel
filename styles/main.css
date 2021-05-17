@@ -792,12 +792,12 @@ body.theme_11 .wrapper footer.footer .footer-widgets .social-icons-new>li>a>i {
 /* Instagram скрываем старую иконку */
 
 body.theme-gray .social-icons li a:hover {
-    color: #fff;
-    background-color: #000000;
+    color: transparent;
+    background-color: transparent;
 }
 
 body.theme-gray .social-icons li a {
     border: none;
     font-size: 1px;
-    color: #3c3c3c;
+    color: transparent;
 }
