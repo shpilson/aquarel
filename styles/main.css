@@ -846,3 +846,9 @@ body.common-home > .wrapper {
     background-color: hsl(0deg 0% 100% / 0%);
 }
 
+/* Отсупы в подвале с мобильной версии */
+
+
+.footer-widgets .widget-categories {
+    margin-bottom: 22px;
+}
