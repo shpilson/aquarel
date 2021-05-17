@@ -812,6 +812,10 @@ body.ltr .social-icons li {
     float: left;
 }
 
+body.ltr .social-icons {
+    display: none;
+}
+
 /* Уменьшаем отступы в подвале */
 
 .footer-widgets > .container > .row {
