@@ -820,11 +820,6 @@ body.theme-gray .social-icons li a {
 
 /* Фоновые изображение */
 
-body .content-area .page-section {
-    background: url("./images/background/bck/image12.png");
-    background-position: left top;
-    background-repeat: no-repeat, no-repeat;
-}
 
 body {
     background: url("./images/background/1L.svg") 90% 90% no-repeat fixed, 
