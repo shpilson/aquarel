@@ -1,6 +1,6 @@
-const cartButton = document.querySelectorAll('.product-item .add_to_cart button');
+const cartButton = document.querySelectorAll('.product-item .add_to_cart .button span');
 
-// function cart() {
+function cart() {
     cartButton.forEach(el => {
         el.textContent = `В корзину`;
     }) 
