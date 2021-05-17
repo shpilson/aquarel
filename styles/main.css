@@ -609,9 +609,9 @@ body .footer .footer-widgets .widget-title {
 
 .btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
     color: #484848;
-    background-color: #f8eff2;
-    border-color: #b8a3a7;
-    border-radius: 0.25rem;
+    background-color: rgb(241, 241, 241);
+    border-color: rgb(241, 241, 241);
+    border-radius: 4px;
 }
 
 /* Отображаем футер на всех страницах */
