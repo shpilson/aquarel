@@ -819,7 +819,7 @@ body.ltr .social-icons {
 /* Уменьшаем отступы в подвале */
 
 .footer-widgets > .container > .row {
-    width: 80% !important;
+    width: 90% !important;
 }
 
 /* Цвет кнопок в форме обратной связи */
