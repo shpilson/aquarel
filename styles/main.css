@@ -380,6 +380,7 @@ body .btn.btn-theme.btn-theme-transparent:hover {
     min-height: 250px;
     max-width: 250px;
     max-height: 250px;
+    border-radius: 20px;
 }
 
 /* Footer: меняем верхний отступ */
