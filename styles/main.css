@@ -821,9 +821,10 @@ body.theme-gray .social-icons li a {
 
 /* Фоновые изображение */
 
-body.common-home > .wrapper{
+body.common-home > .wrapper {
     background: url("./images/background.jpg") repeat-y;
     background-size: 100%;
+    opacity: 0.7;
    }
 
 
