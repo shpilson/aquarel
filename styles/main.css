@@ -883,6 +883,6 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
 /* Header: иконки, отсупы */
 
 .wrapper .header .header-wrapper .header_widgets .header_login {
-    margin: 0 25px 0px 0px !important;
+    margin: 0 .5rem 0px 0px !important;
     text-align: right;
 }
