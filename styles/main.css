@@ -817,3 +817,11 @@ body.theme-gray .social-icons li a {
 .form-control {
     background-color: rgba(243, 243, 243, 0.82);
 }
+
+/* Фоновые изображение */
+
+body {
+    background-image: url("./images/background/1L.svg"), url("./images/background/2L.svg");
+    background-position: left top, left middle;
+    background-repeat: no-repeat, no-repeat;
+}
