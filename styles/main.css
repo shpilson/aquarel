@@ -852,3 +852,8 @@ body.common-home > .wrapper {
 .footer-widgets .widget-categories {
     margin-bottom: 22px;
 }
+
+
+body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .price_actions .add_to_cart .fa-shopping-cart:before {
+    content: "\f07a";
+}
