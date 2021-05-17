@@ -803,7 +803,7 @@ body.theme-gray .social-icons li a {
     color: transparent;
 }
 
-
+/* Уменьшаем отступы в подвале */
 
 .footer-widgets > .container > .row {
     width: 80% !important;
