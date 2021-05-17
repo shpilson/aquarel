@@ -821,7 +821,7 @@ body.theme-gray .social-icons li a {
 /* Фоновые изображение */
 
 body .content-area .page-section {
-    background-image: url("./images/background/1L.svg"), url("./images/background/2L.svg");
-    background-position: left top, left bottom;
-    background-repeat: no-repeat, no-repeat;
+    background-image: url("./images/background/1L.svg");
+    background-position: left top;
+    background-repeat: no-repeat;
 }
