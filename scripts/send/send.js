@@ -4,7 +4,7 @@ function send() {
 sendSelector.insertAdjacentHTML('afterbegin', `
 <div class="container">
     <div class="client_send_form row">
-    <div class="send_form col-md-6 col-12">
+    <div class="send_form col-md-6 col-12" style="background: rgba(255, 255, 255, 0.61);">
     <h5 class="send_title">Остались вопросы?</h5>
     <p>Для подробной консультации по подбору идеального для Вас корсета оставьте заявку</p>
     </div>
