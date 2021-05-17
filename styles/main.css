@@ -807,6 +807,11 @@ body.theme-gray .social-icons li a {
     color: transparent;
 }
 
+body.ltr .social-icons li {
+    padding: 0px 0px 0 0;
+    float: left;
+}
+
 /* Уменьшаем отступы в подвале */
 
 .footer-widgets > .container > .row {
@@ -836,3 +841,4 @@ body.common-home > .wrapper {
 .thumbnail.thumbnail-banner .caption-sub-title span, .thumbnail.thumbnail-banner .caption-title span {
     background-color: hsl(0deg 0% 100% / 0%);
 }
+
