@@ -784,6 +784,6 @@ body.theme_11.product-product .product-single.product-item .buttons .quantity {
 
 /* Instagram в футере, делаем цвет */
 
-body.theme_11 .wrapper footer.footer .footer-widgets .social-icons>li>a>i {
+body.theme_11 .wrapper footer.footer .footer-widgets .social-icons-new>li>a>i {
     color: #a8a8a8;
 }
