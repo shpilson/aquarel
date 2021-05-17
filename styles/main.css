@@ -826,6 +826,13 @@ body .content-area .page-section {
     background-repeat: no-repeat, no-repeat;
 }
 
+body {
+    background: url("./images/background/1L.svg") 90% 90% no-repeat fixed, 
+                url("./images/background/2L.svg") 40% 40% no-repeat fixed, 
+                url("./images/background/3L.svg") no-repeat fixed;
+    background-size: auto, auto, cover; /* Меняем масштаб */
+   }
+
 
 /* Categories убираем рамку и цвет */
 
