@@ -879,3 +879,10 @@ body.theme_11 .wrapper .page-section .products.grid .product-item .thumbnail .pr
     content: "\f290";
     color: #686161;
 }
+
+/* Header: иконки, отсупы */
+
+.wrapper .header .header-wrapper .header_widgets .header_login {
+    padding: 0 25px 0px 0px !important;
+    text-align: right;
+}
