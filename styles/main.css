@@ -384,13 +384,13 @@ body .btn.btn-theme.btn-theme-transparent:hover {
 
 /* Footer: меняем верхний отступ */
 
-body.theme_11 .wrapper footer.footer {
+body .wrapper footer.footer {
     border-top: 2px solid #CBCBCB;
 }
 
 /* Footer: все ссылки - меняем цвет и шрифт */
 
-body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a {
+body .wrapper footer.footer .footer-widgets .widget-categories ul li a {
     color: #A9A9A9;
     font-family: 'Open Sans' !important;
     font-style: normal;
@@ -399,7 +399,7 @@ body.theme_11 .wrapper footer.footer .footer-widgets .widget-categories ul li a 
     line-height: 22px;
 }
 
-body.theme_11 .wrapper footer.footer .footer-widgets .widget .widget-title {
+body .wrapper footer.footer .footer-widgets .widget .widget-title {
     color: #000000;
     font-family: 'Open Sans' !important;
     font-style: normal;
@@ -410,13 +410,13 @@ body.theme_11 .wrapper footer.footer .footer-widgets .widget .widget-title {
 
 /* Footer: меняем фон футера */
 
-body.theme_11 .wrapper footer.footer .footer-widgets {
+body .wrapper footer.footer .footer-widgets {
     background-color: #ffffff;
 }
 
 /* Footer: иконка маломобильных людей */
 
-body.theme_11 .wrapper footer.footer .footer-widgets .bs-menu-toggle>a.bs-menu-link {
+body .wrapper footer.footer .footer-widgets .bs-menu-toggle>a.bs-menu-link {
     color: #000;
 }
 
