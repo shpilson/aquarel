@@ -608,10 +608,10 @@ body .footer .footer-widgets .widget-title {
 /* Кнопка при наведении */
 
 .btn-primary.focus, .btn-primary:focus, .btn-primary:hover {
-    color: #484848;
+    color: #000;
     background-color: rgb(241, 241, 241);
-    border-color: rgb(241, 241, 241);
-    border-radius: 4px;
+    border-color: 2px solid #808080;
+    border-radius: 4px !important;
 }
 
 /* Отображаем футер на всех страницах */
